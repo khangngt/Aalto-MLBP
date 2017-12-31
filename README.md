@@ -1,2 +1,2 @@
 # Aalto-MLBP
-Project for the MLBP course at Aalto. Fall 2017
+Using neural network to classify songs into 10 genres based on 264 features. The data was given by the staff. 
